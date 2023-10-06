@@ -55,6 +55,18 @@
             <a href="10-05/악마의제안.js">Node.js</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1009">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                분산 처리
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-06/분산처리.js">Node.js</a>
+        </td>
+    </tr>
 </table>
 
 ## 10.01
@@ -73,3 +85,7 @@
 
 ## 10.05
 - 알고리즘 2문제 풀이
+
+## 10.06
+- 알고리즘 1문제 풀이
+- 개인 프로젝트 캘린더 데이터 정리
