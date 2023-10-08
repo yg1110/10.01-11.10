@@ -67,6 +67,18 @@
             <a href="10-06/분산처리.js">Node.js</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2204">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                도비의 난독증 테스트
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-08/도비의%20난독증%20테스트.js">Node.js</a>
+        </td>
+    </tr>
 </table>
 
 ## 10.01
@@ -92,3 +104,8 @@
 
 ## 10.07
 - 개인프로젝트 달력 스타일 수정
+
+## 10.08
+- AI 스터디
+- 토치 환경 구성
+- 알고리즘 1문제 풀이
