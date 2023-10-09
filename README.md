@@ -79,6 +79,18 @@
             <a href="10-08/도비의%20난독증%20테스트.js">Node.js</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2167">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                2차원 배열의 합
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-09/2차원%20배열의%20합.js">Node.js</a>
+        </td>
+    </tr>
 </table>
 
 ## 10.01
@@ -109,3 +121,7 @@
 - AI 스터디
 - 토치 환경 구성
 - 알고리즘 1문제 풀이
+
+## 10.09
+- 알고리즘 1문제 풀이
+- 포트폴리오 수정
