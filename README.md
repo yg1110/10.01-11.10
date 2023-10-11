@@ -91,6 +91,18 @@
             <a href="10-09/2차원%20배열의%20합.js">Node.js</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1018">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                체스판 다시 칠하기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-11/체스판%20다시%20칠하기.js">Node.js</a>
+        </td>
+    </tr>
 </table>
 
 ## 10.01
@@ -127,4 +139,9 @@
 - 포트폴리오 수정
 
 ## 10.10
+- 이력서 제출
+
+## 10.11
+- 면접
+- 알고리즘 1문제 실패
 - 이력서 제출
