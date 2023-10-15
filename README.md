@@ -103,6 +103,18 @@
             <a href="10-11/체스판%20다시%20칠하기.js">Node.js</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2667">
+                <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+                단지 번호 붙이기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-15/단지번호붙이기.js">Node.js</a>
+        </td>
+    </tr>
 </table>
 
 ## 10.01
@@ -154,3 +166,6 @@
 
 ## 10.14
 - 이력서 제출
+
+## 10.15
+- 알고리즘 1문제 풀이
