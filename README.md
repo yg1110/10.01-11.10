@@ -115,6 +115,30 @@
             <a href="10-15/단지번호붙이기.js">Node.js</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6603">
+                <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+                로또
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-16/로또.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2309">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                일곱난쟁이
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-16/일곱난쟁이.js">Node.js</a>
+        </td>
+    </tr>
 </table>
 
 ## 10.01
@@ -169,3 +193,7 @@
 
 ## 10.15
 - 알고리즘 1문제 풀이
+
+## 10.16
+- 알고리즘 2문제 풀이
+- 이력서 제출
