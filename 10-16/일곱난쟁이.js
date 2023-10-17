@@ -6,42 +6,25 @@ const input = `20
 15
 25
 8
-13`.trim().split('\n');
-// const input = require('fs').readFileSync('/dev/stdin').toString().trim().split('\n');
-const solve = () => {
-  const use = {};
-  const powerSet = (deps) => {
-    if(deps === 7) {
-      let sum = 0;
-      const ans = [];
-      for(let i=0; i<9; i++) {
-        if(use[i]) {
-          sum += Number(input[i]);
-          ans.push(input[i])
-          // if(sum > 100) {
-          //   ans.length = 0;
-          //   break;
-          // }
-          
-          if(ans.length === 7) {
-            console.log(`sum`, sum);
-            console.log(`ans`, ans);
-          }
-        }
-      }
-      // if(ans.length) {
-      //   console.log(`ans`, ans);
-      // }
-      return;
+13`.trim().split('\n').map(Number);
+const input = require('fs').readFileSync('/dev/stdin').toString().trim().split('\n').map(Number);
+let dwarf = null;
+const sum = input.reduce((acc, curr) => {
+  return acc + curr;
+}, 0);
+for (let i = 0; i < input.length - 1; i++) {
+  for (let j = i + 1; j < input.length; j++) {
+    if (sum - input[i] - input[j] === 100) {
+      dwarf = input.filter(
+        (height) => height !== input[i] && height !== input[j]
+      ).sort((a, b) => a-b);
+      break;
     }
-    use[deps] = true;
-    powerSet(deps + 1);
-    use[deps] = false;
-    powerSet(deps + 1)
   }
 
-  powerSet(0);
+  if (dwarf) {
+    break;
+  }
+}
 
-  // console.log(`dwarf`, dwarf);
-};
-solve()
+console.log(dwarf.join('\n'))

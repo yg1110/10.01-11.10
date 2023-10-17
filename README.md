@@ -139,6 +139,129 @@
             <a href="10-16/일곱난쟁이.js">Node.js</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2501">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                약수구하기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-17/약수구하기.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/3460">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                이진수
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-17/이진수.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2460">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                지능형 기차 2
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-17/지능형기차.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10870">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                피보나치 수 5
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-17/피보나치수.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12939" style="display: flex; align-items: center; gap: 5px">
+                <div style="
+                        display: inline-flex;
+                        height: 1.2rem;
+                        -webkit-box-align: center;
+                        align-items: center;
+                        padding: 0px 0.2rem;
+                        background-color: rgb(33, 137, 255);
+                        border-radius: 0.25rem;
+                        color: rgb(255, 255, 255);
+                        font-size: 0.875rem;
+                        font-weight: 700;
+                    ">
+                    Lv. 2
+                </div>
+                최대값과 최솟값
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-17/최댓값과%20최솟값.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951" style="display: flex; align-items: center; gap: 5px">
+                <div style="
+                        display: inline-flex;
+                        height: 1.2rem;
+                        -webkit-box-align: center;
+                        align-items: center;
+                        padding: 0px 0.2rem;
+                        background-color: rgb(33, 137, 255);
+                        border-radius: 0.25rem;
+                        color: rgb(255, 255, 255);
+                        font-size: 0.875rem;
+                        font-weight: 700;
+                    ">
+                    Lv. 2
+                </div>
+                JadenCase 문자열 만들기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-17/JadenCase%20문자열%20만들기.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12941" style="display: flex; align-items: center; gap: 5px">
+                <div style="
+                        display: inline-flex;
+                        height: 1.2rem;
+                        -webkit-box-align: center;
+                        align-items: center;
+                        padding: 0px 0.2rem;
+                        background-color: rgb(33, 137, 255);
+                        border-radius: 0.25rem;
+                        color: rgb(255, 255, 255);
+                        font-size: 0.875rem;
+                        font-weight: 700;
+                    ">
+                    Lv. 2
+                </div>
+                최솟값 만들기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-17/최솟값%20만들기.js">Node.js</a>
+        </td>
+    </tr>
 </table>
 
 ## 10.01
@@ -196,4 +319,8 @@
 
 ## 10.16
 - 알고리즘 2문제 풀이
+- 이력서 제출
+
+## 10.17
+- 알고리즘 7문제 풀이
 - 이력서 제출
