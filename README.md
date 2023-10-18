@@ -262,6 +262,106 @@
             <a href="10-17/최솟값%20만들기.js">Node.js</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/138477" style="display: flex; align-items: center; gap: 5px">
+                <div style="
+                        display: inline-flex;
+                        height: 1.2rem;
+                        -webkit-box-align: center;
+                        align-items: center;
+                        padding: 0px 0.2rem;
+                        background-color: rgb(27, 186, 255);
+                        border-radius: 0.25rem;
+                        color: rgb(255, 255, 255);
+                        font-size: 0.875rem;
+                        font-weight: 700;
+                    ">
+                    Lv. 1
+                </div>
+                명예의전당
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-18/명예의전당.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120956" style="display: flex; align-items: center; gap: 5px">
+                <div style="
+                        display: inline-flex;
+                        height: 1.2rem;
+                        -webkit-box-align: center;
+                        align-items: center;
+                        padding: 0px 0.2rem;
+                        background-color: rgb(27, 186, 255);
+                        border-radius: 0.25rem;
+                        color: rgb(255, 255, 255);
+                        font-size: 0.875rem;
+                        font-weight: 700;
+                    ">
+                    Lv. 1
+                </div>
+                옹알이
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-18/옹알이.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940" style="display: flex; align-items: center; gap: 5px">
+                <div style="
+                        display: inline-flex;
+                        height: 1.2rem;
+                        -webkit-box-align: center;
+                        align-items: center;
+                        padding: 0px 0.2rem;
+                        background-color: rgb(27, 186, 255);
+                        border-radius: 0.25rem;
+                        color: rgb(255, 255, 255);
+                        font-size: 0.875rem;
+                        font-weight: 700;
+                    ">
+                    Lv. 1
+                </div>
+                최대공약수와최소공배수
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-18/최대공약수와최소공배수.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129" style="display: flex; align-items: center; gap: 5px">
+                <div style="
+                        display: inline-flex;
+                        height: 1.2rem;
+                        -webkit-box-align: center;
+                        align-items: center;
+                        padding: 0px 0.2rem;
+                        background-color: rgb(33, 137, 255);
+                        border-radius: 0.25rem;
+                        color: rgb(255, 255, 255);
+                        font-size: 0.875rem;
+                        font-weight: 700;
+                    ">
+                    Lv. 2
+                </div>
+                이진변환반복하기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-18/이진변환반복하기.js">Node.js</a>
+        </td>
+    </tr>
 </table>
 
 ## 10.01
@@ -324,3 +424,6 @@
 ## 10.17
 - 알고리즘 7문제 풀이
 - 이력서 제출
+
+## 10.18
+- 알고리즘 4문제 풀이
