@@ -387,6 +387,31 @@
             <a href="10-21/햄버거만들기.js">Node.js</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/172928" style="display: flex; align-items: center; gap: 5px">
+                <div style="
+                        display: inline-flex;
+                        height: 1.2rem;
+                        -webkit-box-align: center;
+                        align-items: center;
+                        padding: 0px 0.2rem;
+                        background-color: rgb(27, 186, 255);
+                        border-radius: 0.25rem;
+                        color: rgb(255, 255, 255);
+                        font-size: 0.875rem;
+                        font-weight: 700;
+                    ">
+                    Lv. 1
+                </div>
+                공원 산책
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-22/공원산책.js">Node.js</a>
+        </td>
+    </tr>
 </table>
 
 ## 10.01
@@ -460,4 +485,8 @@
 - 코딩테스트
 
 ## 10.21
+- 알고리즘 1문제 풀이
+
+## 10.22
+- 개발 스터디 (통계)
 - 알고리즘 1문제 풀이
