@@ -189,22 +189,8 @@
     </tr>
     <tr>
         <td>
-            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12939" style="display: flex; align-items: center; gap: 5px">
-                <div style="
-                        display: inline-flex;
-                        height: 1.2rem;
-                        -webkit-box-align: center;
-                        align-items: center;
-                        padding: 0px 0.2rem;
-                        background-color: rgb(33, 137, 255);
-                        border-radius: 0.25rem;
-                        color: rgb(255, 255, 255);
-                        font-size: 0.875rem;
-                        font-weight: 700;
-                    ">
-                    Lv. 2
-                </div>
-                최대값과 최솟값
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12939">
+                [ Lv. 2 ] 최대값과 최솟값
             </a>
         </td>
         <td>
@@ -214,22 +200,8 @@
     </tr>
     <tr>
         <td>
-            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951" style="display: flex; align-items: center; gap: 5px">
-                <div style="
-                        display: inline-flex;
-                        height: 1.2rem;
-                        -webkit-box-align: center;
-                        align-items: center;
-                        padding: 0px 0.2rem;
-                        background-color: rgb(33, 137, 255);
-                        border-radius: 0.25rem;
-                        color: rgb(255, 255, 255);
-                        font-size: 0.875rem;
-                        font-weight: 700;
-                    ">
-                    Lv. 2
-                </div>
-                JadenCase 문자열 만들기
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951">
+                [ Lv. 2 ] JadenCase 문자열 만들기
             </a>
         </td>
         <td>
@@ -239,22 +211,8 @@
     </tr>
     <tr>
         <td>
-            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12941" style="display: flex; align-items: center; gap: 5px">
-                <div style="
-                        display: inline-flex;
-                        height: 1.2rem;
-                        -webkit-box-align: center;
-                        align-items: center;
-                        padding: 0px 0.2rem;
-                        background-color: rgb(33, 137, 255);
-                        border-radius: 0.25rem;
-                        color: rgb(255, 255, 255);
-                        font-size: 0.875rem;
-                        font-weight: 700;
-                    ">
-                    Lv. 2
-                </div>
-                최솟값 만들기
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12941">
+                [ Lv. 2 ] 최솟값 만들기
             </a>
         </td>
         <td>
@@ -264,22 +222,8 @@
     </tr>
     <tr>
         <td>
-            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/138477" style="display: flex; align-items: center; gap: 5px">
-                <div style="
-                        display: inline-flex;
-                        height: 1.2rem;
-                        -webkit-box-align: center;
-                        align-items: center;
-                        padding: 0px 0.2rem;
-                        background-color: rgb(27, 186, 255);
-                        border-radius: 0.25rem;
-                        color: rgb(255, 255, 255);
-                        font-size: 0.875rem;
-                        font-weight: 700;
-                    ">
-                    Lv. 1
-                </div>
-                명예의전당
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/138477">
+                [ Lv. 1 ] 명예의전당
             </a>
         </td>
         <td>
@@ -289,22 +233,8 @@
     </tr>
     <tr>
         <td>
-            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120956" style="display: flex; align-items: center; gap: 5px">
-                <div style="
-                        display: inline-flex;
-                        height: 1.2rem;
-                        -webkit-box-align: center;
-                        align-items: center;
-                        padding: 0px 0.2rem;
-                        background-color: rgb(27, 186, 255);
-                        border-radius: 0.25rem;
-                        color: rgb(255, 255, 255);
-                        font-size: 0.875rem;
-                        font-weight: 700;
-                    ">
-                    Lv. 1
-                </div>
-                옹알이
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120956">
+                [ Lv. 1 ] 옹알이
             </a>
         </td>
         <td>
@@ -314,22 +244,8 @@
     </tr>
     <tr>
         <td>
-            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940" style="display: flex; align-items: center; gap: 5px">
-                <div style="
-                        display: inline-flex;
-                        height: 1.2rem;
-                        -webkit-box-align: center;
-                        align-items: center;
-                        padding: 0px 0.2rem;
-                        background-color: rgb(27, 186, 255);
-                        border-radius: 0.25rem;
-                        color: rgb(255, 255, 255);
-                        font-size: 0.875rem;
-                        font-weight: 700;
-                    ">
-                    Lv. 1
-                </div>
-                최대공약수와최소공배수
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940">
+                [ Lv. 1 ] 최대공약수와최소공배수
             </a>
         </td>
         <td>
@@ -339,22 +255,8 @@
     </tr>
     <tr>
         <td>
-            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129" style="display: flex; align-items: center; gap: 5px">
-                <div style="
-                        display: inline-flex;
-                        height: 1.2rem;
-                        -webkit-box-align: center;
-                        align-items: center;
-                        padding: 0px 0.2rem;
-                        background-color: rgb(33, 137, 255);
-                        border-radius: 0.25rem;
-                        color: rgb(255, 255, 255);
-                        font-size: 0.875rem;
-                        font-weight: 700;
-                    ">
-                    Lv. 2
-                </div>
-                이진변환반복하기
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129">
+                [ Lv. 2 ] 이진변환반복하기
             </a>
         </td>
         <td>
@@ -364,22 +266,8 @@
     </tr>
     <tr>
         <td>
-            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129" style="display: flex; align-items: center; gap: 5px">
-                <div style="
-                        display: inline-flex;
-                        height: 1.2rem;
-                        -webkit-box-align: center;
-                        align-items: center;
-                        padding: 0px 0.2rem;
-                        background-color: rgb(27, 186, 255);
-                        border-radius: 0.25rem;
-                        color: rgb(255, 255, 255);
-                        font-size: 0.875rem;
-                        font-weight: 700;
-                    ">
-                    Lv. 1
-                </div>
-                햄버거 만들기
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129">
+                [ Lv. 1 ] 햄버거 만들기
             </a>
         </td>
         <td>
@@ -389,27 +277,35 @@
     </tr>
     <tr>
         <td>
-            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/172928" style="display: flex; align-items: center; gap: 5px">
-                <div style="
-                        display: inline-flex;
-                        height: 1.2rem;
-                        -webkit-box-align: center;
-                        align-items: center;
-                        padding: 0px 0.2rem;
-                        background-color: rgb(27, 186, 255);
-                        border-radius: 0.25rem;
-                        color: rgb(255, 255, 255);
-                        font-size: 0.875rem;
-                        font-weight: 700;
-                    ">
-                    Lv. 1
-                </div>
-                공원 산책
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/172928">
+                [ Lv. 1 ] 공원 산책
             </a>
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="10-22/공원산책.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">
+                [ Easy ] Reverse Words in a String III
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-23/557.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/178871">
+                [ Lv.1 ] 달리기 경주
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-23/달리기경주.js">Node.js</a>
         </td>
     </tr>
 </table>
@@ -490,3 +386,7 @@
 ## 10.22
 - 개발 스터디 (통계)
 - 알고리즘 1문제 풀이
+
+## 10.23
+- 알고리즘 2문제 풀이
+- 이력서 제출
