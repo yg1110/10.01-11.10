@@ -2,6 +2,8 @@
 
 ## 알고리즘
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg1110)](https://solved.ac/yg1110)
+
 <table>
     <tr>
         <th>문제</th>
@@ -394,3 +396,7 @@
 ## 10.24
 - 코딩테스트(지그재그 수열, 번식왕 드래곤, 자연수 이어쓰기, 비커 물 옮기기)
 - 알고리즘 1문제 풀이
+
+## 10.25
+- 면접 준비
+- 알고리즘 1문제 실패
