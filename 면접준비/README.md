@@ -1,3 +1,7 @@
+### 개발환경
+- React-native : 0.68.5 (현재 0.72)
+- Next : 7.0.2 (현재 13.5.1)
+- React : 16.8.0 (현재 18.2.0)
 
 ### 불변성을 지켜야하는 이유
 리액트의 state 변화 감지 기준은 콜 스택의 주소값이기 때문입니다.
@@ -171,8 +175,38 @@ ES6 코드를 ES5 코드로 변환해주는 일에서 리액트의 JSX문법, �
 ### 스코프
 - 전역 스코프
 - 지역 스코프
-- 블록 레벨 스코프
-- 함수 레벨 스코프
-- 렉시컬 스코프
+- 블록 레벨 스코프 : 블록({})내부에서 선언된 변수는 해당 블록에서만 접근 가능
+- 함수 레벨 스코프 : 함수에서 선언한 변수는 해당 함수 내에서만 접근 가능
+- 렉시컬 스코프 : 함수를 어디서 호출하는지가 아니라 어디서 선언하였는지에 따라 결정되는 스코프
 
 ### 클로져
+클로져는 내부함수가 외부함수의 변수를 참조하며, 함수가 생성됐을 시점의 환경을 기억하는 함수이다.
+
+### 클로져 쓰는 이유
+1. 은닉화
+
+2. 변수의 상태를 기억하고 유지
+
+3. 전역변수 사용 억제
+
+### 이벤트 루프
+https://velog.io/@yejineee/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-%ED%83%9C%EC%8A%A4%ED%81%AC-%ED%81%90-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%ED%83%9C%EC%8A%A4%ED%81%AC-%EB%A7%A4%ED%81%AC%EB%A1%9C-%ED%83%9C%EC%8A%A4%ED%81%AC-g6f0joxx
+
+### grid와 flex
+![grid와flex](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fzy5q9%2Fbtq1aRImW4g%2FvwwzIFiaGBt5jgwXOssg2K%2Fimg.jpg)
+Flex는 1차원으로 수평, 수직 영역 중 하나의 방향으로만 레이아웃을 나눌 수 있습니다.
+
+그에 비해 Grid는 2차원으로 수평 수직을 동시에 영역을 나눌 수 있습니다.
+
+### 리덕스
+
+### :after, ::after의 차이
+:after은 CSS2에서 , ::after은 CSS3에서 사용하는 것입니다.
+
+즉, 가상요소(Pseudo-elements)는 CSS2에서는 : 가 하나만 표기되고, CSS3에서는 :가 두개 표기됩니다.
+
+가상클래스 :hover, :active, :checked, :last-child ...등등
+
+가상요소 ::after, ::before, ::first-letter, ::placeholder ...등등
+
+ 
