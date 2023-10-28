@@ -310,6 +310,53 @@
             <a href="10-23/달리기경주.js">Node.js</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://twitter.com/disjukr/status/1640020585031036928">
+                배열 뒤집기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-24/배열뒤집기.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1245">
+                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+                농장관리
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-27/농장관리.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23971a">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                ZOAC4
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-27/ZOAC4.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5073">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                삼각형과세변
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-27/삼각형과세변.js">Node.js</a>
+        </td>
+    </tr>
 </table>
 
 ## 10.01
@@ -403,3 +450,9 @@
 
 ## 10.26
 - 면접
+
+## 10.27
+- 알고리즘 3문제 풀이
+
+## 10.28
+- 이력서 제출
