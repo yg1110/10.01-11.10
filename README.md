@@ -357,6 +357,42 @@
             <a href="10-27/삼각형과세변.js">Node.js</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10431">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                줄세우기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-30/줄세우기.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/8979">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                올림픽
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-30/올림픽.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/7568">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                덩치
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="10-30/덩치.js">Node.js</a>
+        </td>
+    </tr>
 </table>
 
 ## 10.01
@@ -460,3 +496,7 @@
 ## 10.29
 - 개발 스터디 (통계)
 - 이력서 제출
+
+## 10.30
+- 이력서 제출
+- 알고리즘 3문제 풀이
