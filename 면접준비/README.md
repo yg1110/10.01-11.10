@@ -2,6 +2,9 @@
 - React-native : 0.68.5 (현재 0.72)
 - Next : 7.0.2 (현재 13.5.1)
 - React : 16.8.0 (현재 18.2.0)
+- Express 4.17.1
+- 리액트 네이티브는 cli 실무에서 경험해봤으며, mac os로 usb 연결해서 직접 확인해가면서 진행했습니다.
+- 디자인 툴은 xd
 
 ### 불변성을 지켜야하는 이유
 리액트의 state 변화 감지 기준은 콜 스택의 주소값이기 때문입니다.
@@ -172,25 +175,124 @@ ES6 코드를 ES5 코드로 변환해주는 일에서 리액트의 JSX문법, �
 ### 이벤트 캡쳐링
 최상위 태그에서 하위 태그로 이벤트가 전파되는 현상
 
+### 이벤트 버블링을 막는 방법
+```javascript
+event.stopPropagation()
+```
+
 ### 스코프
 - 전역 스코프
 - 지역 스코프
 - 블록 레벨 스코프 : 블록({})내부에서 선언된 변수는 해당 블록에서만 접근 가능
+```javascript
+let
+const
+```
 - 함수 레벨 스코프 : 함수에서 선언한 변수는 해당 함수 내에서만 접근 가능
+```javascript
+var
+```
 - 렉시컬 스코프 : 함수를 어디서 호출하는지가 아니라 어디서 선언하였는지에 따라 결정되는 스코프
+
+```javascript
+// 함수를 어디서 호출하는지가 아니라 어디에 선언하였는지에 따라 결정된다
+var x = 1;
+
+function foo() {
+  var x = 10;
+  bar();
+}
+
+function bar() {
+  console.log(x);
+}
+
+foo(); // 1
+bar(); // 1
+```
 
 ### 클로져
 클로져는 내부함수가 외부함수의 변수를 참조하며, 함수가 생성됐을 시점의 환경을 기억하는 함수이다.
+```javascript
+// 카운터 두 개를 만들기 위해서 두 배의 코드를 작성했습니다. 비효율적입니다!
+let myValue = 0;
+let yourValue = 0;
+
+function increaseMyCounter() {
+  console.log(++myValue);
+};
+
+function decreaseMyCounter() {
+  console.log(--myValue);
+}
+
+function increaseYourCounter() {
+  console.log(++yourValue);
+};
+
+function decreaseYourCounter() {
+  console.log(--yourValue);
+}
+
+// 클로져를 사용한 경우
+const counterCreator = () => {
+  let value = 0;
+
+  return {
+    increase() {
+      console.log(++value);
+    },
+    decrease() {
+      console.log(--value);
+    },
+  };
+};
+
+const myCounter = counterCreator();
+const yourCounter = counterCreator();
+
+myCounter.increase(); // 1
+myCounter.increase(); // 2
+yourCounter.increase(); // 1
+myCounter.decrease(); // 1
+```
 
 ### 클로져 쓰는 이유
 1. 은닉화
 
-2. 변수의 상태를 기억하고 유지
+2. 변수의 상태를 기억하고 유지 (리액트 훅)
 
 3. 전역변수 사용 억제
 
+### 브라우저 실행 순서
+1. IP주소 확인
+- 브라우저는 DNS를 통해 웹 서버의 IP 주소를 파악한다.
+2. 3-way Handshake
+- 브라우저와 서버가 3-way Handshake를 나눈다.
+3. HTTP Request & Response
+- 브라우저가 서버에게 HTTP Request를 보내면, 서버는 브라우저에게 HTTP Response를 보낸다.
+4. 데이터 Parsing
+- 서버로부터 받은 데이터의 HTML을 Parsing하여 Dom Tree를 생성한다.
+- 이 때 style 태그를 만나면 HTML Parsing을 중단하고 CSS Parsing하여 CSSOM Tree를 생성한다.
+- script 태그를 만나면 HTML Parsing을 중단하고 자바스크립트 엔진에게 권한을 넘겨 Script Parsing하고, Abstract Syntax Tree(AST)를 생성한다.
+- Dom Tree와 CSSOM Tree를 합쳐 Render Tree를 생성한다.
+- 렌더링 엔진은 Render Tree에 있는 노드를 화면에 배치한다.
+- Render Tree에 있는 노드의 UI를 그린다.
+- 노드들의 레이어를 z-index에 맞게 순서대로 구성한다.
+5. 화면 출력
+
+### 로컬 스토리지, 세션 스토리지, 쿠키의 차이
+- 로컬 스토리지 : 영구적 보관
+- 세션 스토리지 : 탭별로 보관, 탭이 닫히면 초기화
+- 쿠키 : 클라이언트 PC에 보관, 만료일 필수, 적은 용량
+
 ### 이벤트 루프
 https://velog.io/@yejineee/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-%ED%83%9C%EC%8A%A4%ED%81%AC-%ED%81%90-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%ED%83%9C%EC%8A%A4%ED%81%AC-%EB%A7%A4%ED%81%AC%EB%A1%9C-%ED%83%9C%EC%8A%A4%ED%81%AC-g6f0joxx
+![이미지](https://uploads.disquscdn.com/images/fb98edb750d6839fbc9958548f3b2a97e26f30fa5f529b8a9fed296c7a71a2d8.gif?w=800&h=405)
+함수가 호출되면 콜스택에 쌓이고, 비동기 처리를 해야되면 webAPI(타이머 돔 등)에 담긴다
+
+![이미지](https://uploads.disquscdn.com/images/9466d8aa53fc5b3e63a92858a94bb429df02bbd20012b738f0461343beaa6f90.gif?w=600&h=272)
+이벤트 루프는 태스크큐를 확인해서 콜스택이 비었을경우 하나씩 꺼내서 처리한다.
 
 ### grid와 flex
 ![grid와flex](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fzy5q9%2Fbtq1aRImW4g%2FvwwzIFiaGBt5jgwXOssg2K%2Fimg.jpg)
@@ -209,4 +311,47 @@ Flex는 1차원으로 수평, 수직 영역 중 하나의 방향으로만 레이
 
 가상요소 ::after, ::before, ::first-letter, ::placeholder ...등등
 
- 
+### css관련 질문
+```css
++ 형제노드 하나
+```
+```css
+> 바로아래 자식노드 전부
+```
+```css
+E:nth-child(n) 부모의 n번째 자식이면서 E 요소일 때
+```
+
+```css
+E:nth-type(n) 같은 유형의 n번째 요소의 E 요소
+```
+
+### Next
+next는 pre-rendering으로 html을 먼저 그리게 된다.
+
+getInitialProps(9.3버전 이전), getStaticProps, getServerSideProps은 html이 빌드되기 전 props를 넘길수 있다.
+
+getStaticProps 빌드시에 요청
+
+getServerSideProps 매 요청마다 함수가 동작.
+
+### graphQL vs RESTful
+필요한 부분만 부분적으로 요청할 수 있다.
+
+http 요청 횟수를 줄일 수 있다.
+
+File 전송 등 Text 만으로 하기 힘든 내용들을 처리하기 복잡하다.
+
+고정된 요청과 응답만 필요할 경우에는 Query 로 인해 요청의 크기가 RESTful API 의 경우보다 더 커진다.
+
+1. GraphQL
+- 서로 다른 모양의 다양한 요청들에 대해 응답할 수 있어야 할 때
+- 대부분의 요청이 CRUD(Create-Read-Update-Delete) 에 해당할 때
+
+2. RESTful
+- HTTP 와 HTTPs 에 의한 Caching 을 잘 사용하고 싶을 때
+- File 전송 등 단순한 Text 로 처리되지 않는 요청들이 있을 때
+- 요청의 구조가 정해져 있을 때
+
+### 리엑트 네이티브를 사용할 때 라우터는 어떤식으로 구현하였는가?
+props안에 있는 navigation의 navigate를 이용
