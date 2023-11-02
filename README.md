@@ -18,7 +18,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-02/부호.js">Node.js</a>
+            <a href="10월/10-02/부호.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-04/핸드폰%20요금.js">Node.js</a>
+            <a href="10월/10-04/핸드폰%20요금.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-05/최댓값.js">Node.js</a>
+            <a href="10월/10-05/최댓값.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -54,7 +54,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-05/악마의제안.js">Node.js</a>
+            <a href="10월/10-05/악마의제안.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-06/분산처리.js">Node.js</a>
+            <a href="10월/10-06/분산처리.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -78,7 +78,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-08/도비의%20난독증%20테스트.js">Node.js</a>
+            <a href="10월/10-08/도비의%20난독증%20테스트.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -90,7 +90,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-09/2차원%20배열의%20합.js">Node.js</a>
+            <a href="10월/10-09/2차원%20배열의%20합.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -102,7 +102,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-11/체스판%20다시%20칠하기.js">Node.js</a>
+            <a href="10월/10-11/체스판%20다시%20칠하기.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -114,7 +114,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-15/단지번호붙이기.js">Node.js</a>
+            <a href="10월/10-15/단지번호붙이기.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -126,7 +126,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-16/로또.js">Node.js</a>
+            <a href="10월/10-16/로또.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -138,7 +138,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-16/일곱난쟁이.js">Node.js</a>
+            <a href="10월/10-16/일곱난쟁이.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -150,7 +150,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-17/약수구하기.js">Node.js</a>
+            <a href="10월/10-17/약수구하기.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -162,7 +162,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-17/이진수.js">Node.js</a>
+            <a href="10월/10-17/이진수.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -174,7 +174,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-17/지능형기차.js">Node.js</a>
+            <a href="10월/10-17/지능형기차.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -186,7 +186,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-17/피보나치수.js">Node.js</a>
+            <a href="10월/10-17/피보나치수.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -197,7 +197,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-17/최댓값과%20최솟값.js">Node.js</a>
+            <a href="10월/10-17/최댓값과%20최솟값.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -208,7 +208,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-17/JadenCase%20문자열%20만들기.js">Node.js</a>
+            <a href="10월/10-17/JadenCase%20문자열%20만들기.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -219,7 +219,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-17/최솟값%20만들기.js">Node.js</a>
+            <a href="10월/10-17/최솟값%20만들기.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -230,7 +230,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-18/명예의전당.js">Node.js</a>
+            <a href="10월/10-18/명예의전당.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -241,7 +241,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-18/옹알이.js">Node.js</a>
+            <a href="10월/10-18/옹알이.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -252,7 +252,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-18/최대공약수와최소공배수.js">Node.js</a>
+            <a href="10월/10-18/최대공약수와최소공배수.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -263,7 +263,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-18/이진변환반복하기.js">Node.js</a>
+            <a href="10월/10-18/이진변환반복하기.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -274,7 +274,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-21/햄버거만들기.js">Node.js</a>
+            <a href="10월/10-21/햄버거만들기.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -285,7 +285,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-22/공원산책.js">Node.js</a>
+            <a href="10월/10-22/공원산책.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -296,7 +296,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-23/557.js">Node.js</a>
+            <a href="10월/10-23/557.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -307,7 +307,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-23/달리기경주.js">Node.js</a>
+            <a href="10월/10-23/달리기경주.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -318,7 +318,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-24/배열뒤집기.js">Node.js</a>
+            <a href="10월/10-24/배열뒤집기.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -330,7 +330,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-27/농장관리.js">Node.js</a>
+            <a href="10월/10-27/농장관리.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -342,7 +342,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-27/ZOAC4.js">Node.js</a>
+            <a href="10월/10-27/ZOAC4.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -354,7 +354,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-27/삼각형과세변.js">Node.js</a>
+            <a href="10월/10-27/삼각형과세변.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -366,7 +366,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-30/줄세우기.js">Node.js</a>
+            <a href="10월/10-30/줄세우기.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -378,7 +378,7 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-30/올림픽.js">Node.js</a>
+            <a href="10월/10-30/올림픽.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -390,7 +390,31 @@
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
-            <a href="10-30/덩치.js">Node.js</a>
+            <a href="10월/10-30/덩치.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4659">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                비밀번호 발음하기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="11-02/비밀번호발음하기.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/12919">
+                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+                A와B2
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="11-02/A와B2.js">Node.js</a>
         </td>
     </tr>
 </table>
@@ -507,3 +531,7 @@
 
 ## 11.01
 - 면접
+
+## 11.02
+- 이전 면접 내용 리마인드
+- 알고리즘 2문제 풀이
